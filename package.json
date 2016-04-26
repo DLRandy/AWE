@@ -1,0 +1,38 @@
+{
+  "name": "awe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlrandy/awe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlrandy/awe/issues"
+  },
+  "homepage": "https://github.com/dlrandy/awe#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cache": "^0.4.4",
+    "gulp-changed": "^1.3.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-csso": "^2.0.0",
+    "gulp-eslint": "^2.0.0",
+    "gulp-if": "^2.0.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-modernizr": "^1.0.0-alpha",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.0.8",
+    "run-sequence": "^1.1.5"
+  }
+}

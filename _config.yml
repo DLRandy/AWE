@@ -17,5 +17,7 @@ url: "http://dlrandy.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Configuration
+exclude: ['gulpfile.js',/bower_components/','/app-client/','package.json']
 # Build settings
 markdown: kramdown
